@@ -223,7 +223,7 @@ Connect or disconnect ss and dd by virtual patch cable.
 
 
 
-##Patching Destination(dd)
+## Patching Destination(dd)
 
 | dd   | Patching Destination |
 | ---- | -------------------- |

@@ -77,7 +77,7 @@ F0H, 41H, 10H, 00H, 00H, 00H, idH, 12H, aaH, bbH, ccH, ddH, eeH, ... , ffH, sum,
 |  | F7 | EOX (End Of Exclusive)] |
 
 
-#Main Module
+# Main Module
 
 | Address     |           | Description |
 | :---------- | --------- | ----------- |
